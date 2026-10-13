@@ -7,6 +7,7 @@
     "url": "https://praxisos.vet"
   },
   "homepage": "https://praxisos.vet",
+  "repository": "https://github.com/etticat/praxis-insights-plugin",
   "license": "Proprietary",
   "keywords": [
     "veterinary",
