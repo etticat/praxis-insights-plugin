@@ -10,6 +10,8 @@ Connect the remote Praxis server through your host's OAuth connection flow at ht
 
 The package contains workflow instructions and public connection metadata. The service runs remotely; the public plugin repository does not contain the Praxis backend or practice records.
 
+Aggregate tool outputs exclude personal record fields. Praxis sign-in and authorization process account/session identity. Praxis retains the workspace credential name, authorizing account reference, hash/prefix and usage/revocation metadata; these records can persist beyond 30 days until workspace erasure. Revocation stops access without deleting that metadata. The bundled workflow sends no data to services other than its declared Praxis connector.
+
 Privacy: https://praxisos.vet/privacy
 
 Support: https://praxisos.vet/support
