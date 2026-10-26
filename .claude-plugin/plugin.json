@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "Read aggregate CMA Order compliance counts, held billing totals and open Praxis task counts from your authorized workspace. Praxis works on top of the veterinary practice management system your practice already runs. Summaries retain their observation times, incomplete-data evidence and stated currencies. This connection does not expose personal records, clinical advice or controls that change practice records.",
   "author": {
-    "name": "Praxis",
-    "url": "https://praxisos.vet"
+    "name": "PRAXIS PLATFORM LTD",
+    "url": "https://praxisvets.com"
   },
-  "homepage": "https://praxisos.vet",
+  "homepage": "https://praxisvets.com",
   "repository": "https://github.com/etticat/praxis-insights-plugin",
   "license": "Proprietary",
   "keywords": [
@@ -19,8 +19,8 @@
   "displayName": "Praxis",
   "mcpServers": "./.mcp.json",
   "icon": "./assets/praxis.svg",
-  "documentationUrl": "https://praxisos.vet",
-  "privacyPolicyUrl": "https://praxisos.vet/privacy",
-  "supportUrl": "https://praxisos.vet/support",
-  "termsOfServiceUrl": "https://praxisos.vet/terms"
+  "documentationUrl": "https://praxisvets.com",
+  "privacyPolicyUrl": "https://praxisvets.com/privacy",
+  "supportUrl": "https://praxisvets.com/support",
+  "termsOfServiceUrl": "https://praxisvets.com/terms"
 }
