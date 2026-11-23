@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "praxis-veterinary-insights": {
+    "praxis-vets": {
       "type": "http",
       "url": "https://praxisvets.com/mcp/insights"
     }

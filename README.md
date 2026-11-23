@@ -6,7 +6,7 @@
 
 Read aggregate CMA Order compliance counts, held billing totals and open Praxis task counts from your authorized workspace. Praxis works on top of the veterinary practice management system your practice already runs. Summaries retain their observation times, incomplete-data evidence and stated currencies. This connection does not expose personal records, clinical advice or controls that change practice records.
 
-Package identifier: `praxis-veterinary-insights`.
+Package identifier: `praxis-vets`.
 
 Connect the remote Praxis server through your host's OAuth connection flow at https://praxisvets.com/mcp/insights. Select your authorized workspace and grant only `insights:read`. Do not paste account credentials or tokens into chat. Run the practice-insights skill to request one of the aggregate summaries. A Praxis account and authorized workspace are required.
 
