@@ -16,7 +16,7 @@
     "billing",
     "administration"
   ],
-  "displayName": "Praxis",
+  "displayName": "Praxis Vets",
   "mcpServers": "./.mcp.json",
   "icon": "./assets/praxis.svg",
   "documentationUrl": "https://praxisvets.com",
