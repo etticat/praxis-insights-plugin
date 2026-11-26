@@ -1,7 +1,7 @@
 {
   "name": "praxis-vets",
-  "version": "0.1.0",
-  "description": "Read aggregate CMA Order compliance counts, held billing totals and open Praxis task counts from your authorized workspace. Praxis works on top of the veterinary practice management system your practice already runs. Summaries retain their observation times, incomplete-data evidence and stated currencies. This connection does not expose personal records, clinical advice or controls that change practice records.",
+  "version": "0.2.0",
+  "description": "Your veterinary practice's AI rules, inside the assistant you already use. Before a work task, the assistant checks it with Praxis and tells you whether your practice allows it here (Yes, No or Not decided), what this assistant may be given, the reminders your practice wants said, and the allowed way when the answer is No. If a task is not decided yet, it can send your practice a request, which you approve first. Each member of staff connects their own assistant to their practice in Praxis. The connection reads the practice's rules and Praxis's guidance for vet practice work. With optional Systems access, it can read the practice’s software inventory and suggest additions for review. Administrators can also change the inventory and review suggestions. Each change asks for confirmation. Clinical records stay outside the connection. Practice managers change AI rules in Praxis.",
   "author": {
     "name": "PRAXIS PLATFORM LTD",
     "url": "https://praxisvets.com"
@@ -12,9 +12,9 @@
   "keywords": [
     "veterinary",
     "practice",
-    "compliance",
-    "billing",
-    "administration"
+    "AI rules",
+    "AI policy",
+    "governance"
   ],
   "displayName": "Praxis Vets",
   "mcpServers": "./.mcp.json",

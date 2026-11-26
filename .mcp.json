@@ -2,7 +2,7 @@
   "mcpServers": {
     "praxis-vets": {
       "type": "http",
-      "url": "https://praxisvets.com/mcp/insights"
+      "url": "https://praxisvets.com/mcp/ai-use"
     }
   }
 }
